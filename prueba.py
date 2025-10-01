@@ -1,3 +1,4 @@
-#Este es un programa que imprime el texto "Hola Mundo"
+#Este es un program que imprime el texto "Hola mundo"
 
-print("Hola mundo, y a todo el mundo - Alejandro")
+print("Hola Mundo, y a todo el mundo - alejandro")
+print("Adios, Alejandro")
